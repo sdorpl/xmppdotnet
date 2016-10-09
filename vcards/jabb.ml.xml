@@ -1,0 +1,34 @@
+<vcard>
+	<fn>
+		<text>jabb.ml</text>
+	</fn>
+	<kind>
+		<text>application</text>
+	</kind>
+	<url>
+		<uri>http://jabb.ml/</uri>
+	</url>
+	<note>
+		<text>Jabb.ML - Free, public XMPP server.</text>
+	</note>
+	<registration xmlns='urn:xmpp:vcard:registration:1'>
+		<uri>xmpp:jabb.ml</uri>
+	</registration>
+	<bday>
+		<date>2016</date>
+	</bday>
+	<adr>
+		<country>PL</country>
+	</adr>
+	<ca xmlns='urn:xmpp:vcard:ca:0'>
+		<name>StartSSL</name>
+		<uri>http://www.startssl.com/</uri>
+	</ca>
+	<name xmlns='jabber:iq:version'>ejabberd</name>
+	<impp>
+		<uri>xmpp:salvador@jabb.ml</uri>
+	</impp>
+	<geo>
+		<uri>geo:50.2,18.8</uri>
+	</geo>
+</vcard>
